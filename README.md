@@ -64,8 +64,6 @@ print(f"比对结果: {result['alignment']}")
 │   ├── scoring_matrices.py   # 评分矩阵定义
 │   ├── main.py               # 主程序入口
 │   └── __init__.py           # 模块初始化
-├── proposal.md               # 项目提案
-├── proposal.pdf              # 项目提案PDF
 ├── report.md                 # 项目报告
 ├── poster.md                 # 海报内容
 └── README.md                 # 项目说明
